@@ -1706,11 +1706,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 75,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 565,
+              "centerZ": 590,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -1741,11 +1741,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 75,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 565,
+              "centerZ": 590,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -1778,11 +1778,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 75,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 565,
+              "centerZ": 590,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -1818,11 +1818,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 75,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 565,
+              "centerZ": 590,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -1855,11 +1855,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 75,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 565,
+              "centerZ": 590,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -1892,11 +1892,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 75,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -565,
+              "centerZ": -590,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -1927,11 +1927,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 75,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -565,
+              "centerZ": -590,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -1964,11 +1964,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 75,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -565,
+              "centerZ": -590,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -2004,11 +2004,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 75,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -565,
+              "centerZ": -590,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -2041,11 +2041,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 75,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -565,
+              "centerZ": -590,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -2081,20 +2081,20 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 50,
+                  "radiusZ": 12,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 440,
+                  "centerZ": 503,
                   "radiusX": 640,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 50,
+                  "radiusZ": 12,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -440,
+                  "centerZ": -503,
                   "radiusX": 640,
                   "condition": "moderner_beta:in_range"
                 }
@@ -2135,20 +2135,20 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 50,
+                  "radiusZ": 12,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 440,
+                  "centerZ": 503,
                   "radiusX": 640,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 50,
+                  "radiusZ": 12,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -440,
+                  "centerZ": -503,
                   "radiusX": 640,
                   "condition": "moderner_beta:in_range"
                 }
@@ -2168,7 +2168,7 @@
             },
             {
               "numerator": 1,
-              "denominator": 3,
+              "denominator": 2,
               "condition": "moderner_beta:random_chance"
             }
           ],
@@ -2191,11 +2191,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 12,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 440,
+              "centerZ": 503,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -2205,7 +2205,7 @@
             },
             {
               "numerator": 1,
-              "denominator": 8,
+              "denominator": 10,
               "condition": "moderner_beta:random_chance"
             }
           ],
@@ -2228,11 +2228,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 12,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -440,
+              "centerZ": -503,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -2242,7 +2242,7 @@
             },
             {
               "numerator": 1,
-              "denominator": 7,
+              "denominator": 9,
               "condition": "moderner_beta:random_chance"
             }
           ],
@@ -2258,6 +2258,227 @@
         },
         "id": "land",
         "seed": 9403,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 12,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 0,
+                  "centerZ": 528,
+                  "radiusX": 640,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 12,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 0,
+                  "centerZ": -528,
+                  "radiusX": 640,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
+            },
+            {
+              "biomes": [
+                "minecraft:ocean",
+                "minecraft:deep_ocean"
+              ],
+              "condition": "moderner_beta:in_set"
+            },
+            {
+              "numerator": 3,
+              "denominator": 4,
+              "condition": "moderner_beta:random_chance"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:frozen_ocean"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 9410,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 12,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 0,
+                  "centerZ": 528,
+                  "radiusX": 640,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 12,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 0,
+                  "centerZ": -528,
+                  "radiusX": 640,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
+            },
+            {
+              "term": {
+                "biomes": [
+                  "minecraft:ocean",
+                  "minecraft:deep_ocean",
+                  "minecraft:frozen_ocean",
+                  "minecraft:deep_frozen_ocean"
+                ],
+                "condition": "moderner_beta:in_set"
+              },
+              "condition": "moderner_beta:inverted"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:snowy_plains"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 9411,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 13,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 0,
+                  "centerZ": 477,
+                  "radiusX": 640,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 13,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 0,
+                  "centerZ": -477,
+                  "radiusX": 640,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
+            },
+            {
+              "biomes": [
+                "minecraft:ocean",
+                "minecraft:deep_ocean"
+              ],
+              "condition": "moderner_beta:in_set"
+            },
+            {
+              "numerator": 1,
+              "denominator": 6,
+              "condition": "moderner_beta:random_chance"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:frozen_ocean"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 9420,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 13,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 0,
+                  "centerZ": 477,
+                  "radiusX": 640,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 13,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 0,
+                  "centerZ": -477,
+                  "radiusX": 640,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
+            },
+            {
+              "term": {
+                "biomes": [
+                  "minecraft:ocean",
+                  "minecraft:deep_ocean",
+                  "minecraft:frozen_ocean",
+                  "minecraft:deep_frozen_ocean"
+                ],
+                "condition": "moderner_beta:in_set"
+              },
+              "condition": "moderner_beta:inverted"
+            },
+            {
+              "numerator": 1,
+              "denominator": 8,
+              "condition": "moderner_beta:random_chance"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:snowy_plains"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 9421,
         "parent": "land",
         "type": "moderner_beta:conditional_overlay"
       },
