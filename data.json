@@ -548,7 +548,9 @@
           "minecraft:plains",
           "minecraft:plains",
           "minecraft:plains",
-          "minecraft:forest",
+          "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:plains",
           "minecraft:forest",
           "minecraft:forest",
           "minecraft:windswept_hills",
@@ -575,11 +577,12 @@
           "minecraft:plains",
           "minecraft:plains",
           "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:plains",
           "minecraft:forest",
           "minecraft:forest",
-          "minecraft:forest",
-          "minecraft:forest",
-          "minecraft:forest",
+          "minecraft:taiga",
           "minecraft:windswept_hills",
           "minecraft:windswept_forest"
         ],
@@ -592,7 +595,8 @@
         "biomes": [
           "minecraft:jagged_peaks",
           "minecraft:mushroom_fields",
-          "minecraft:windswept_gravelly_hills"
+          "minecraft:windswept_gravelly_hills",
+          "minecraft:flower_forest"
         ]
       },
       {
@@ -603,13 +607,16 @@
           "minecraft:plains",
           "minecraft:plains",
           "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:plains",
           "minecraft:forest",
           "minecraft:forest",
-          "minecraft:forest",
-          "minecraft:forest",
+          "minecraft:taiga",
+          "minecraft:snowy_taiga",
+          "minecraft:old_growth_pine_taiga",
           "minecraft:windswept_hills",
-          "minecraft:windswept_forest",
-          "minecraft:snowy_taiga"
+          "minecraft:windswept_forest"
         ],
         "type": "moderner_beta:random_biome"
       },
@@ -620,7 +627,8 @@
         "biomes": [
           "minecraft:jagged_peaks",
           "minecraft:mushroom_fields",
-          "minecraft:windswept_gravelly_hills"
+          "minecraft:windswept_gravelly_hills",
+          "minecraft:old_growth_spruce_taiga"
         ]
       },
       {
