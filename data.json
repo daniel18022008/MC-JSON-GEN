@@ -425,7 +425,7 @@
             },
             {
               "numerator": 1,
-              "denominator": 100,
+              "denominator": 2048,
               "condition": "moderner_beta:random_chance"
             }
           ],
@@ -545,12 +545,12 @@
         "id": "biome_pool_warm",
         "seed": 200,
         "biomes": [
-          "minecraft:desert",
-          "minecraft:desert",
-          "minecraft:desert",
-          "minecraft:savanna",
-          "minecraft:savanna",
-          "minecraft:plains"
+          "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:forest",
+          "minecraft:forest",
+          "minecraft:windswept_hills",
+          "minecraft:windswept_forest"
         ],
         "type": "moderner_beta:random_biome"
       },
@@ -558,9 +558,9 @@
         "id": "biome_pool_warm_rare",
         "seed": 200,
         "biomes": [
-          "minecraft:badlands*plateau",
-          "minecraft:wooded_badlands",
-          "minecraft:wooded_badlands"
+          "minecraft:windswept_hills",
+          "minecraft:windswept_forest",
+          "minecraft:windswept_gravelly_hills"
         ],
         "type": "moderner_beta:random_biome"
       },
@@ -568,36 +568,46 @@
         "id": "biome_pool_temperate",
         "seed": 200,
         "biomes": [
+          "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:forest",
+          "minecraft:forest",
           "minecraft:forest",
           "minecraft:dark_forest",
-          "minecraft:windswept_hills",
-          "minecraft:plains",
           "minecraft:birch_forest",
-          "minecraft:swamp"
+          "minecraft:windswept_hills",
+          "minecraft:windswept_forest"
         ],
         "type": "moderner_beta:random_biome"
       },
       {
         "id": "biome_pool_temperate_rare",
         "seed": 200,
-        "biome": "minecraft:jungle",
+        "biome": "minecraft:windswept_gravelly_hills",
         "type": "moderner_beta:constant_biome"
       },
       {
         "id": "biome_pool_cool",
         "seed": 200,
         "biomes": [
+          "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:forest",
+          "minecraft:forest",
           "minecraft:forest",
           "minecraft:windswept_hills",
-          "minecraft:taiga",
-          "minecraft:plains"
+          "minecraft:windswept_forest",
+          "minecraft:snowy_taiga"
         ],
         "type": "moderner_beta:random_biome"
       },
       {
         "id": "biome_pool_cool_rare",
         "seed": 200,
-        "biome": "minecraft:old_growth_pine_taiga",
+        "biome": "minecraft:windswept_gravelly_hills",
         "type": "moderner_beta:constant_biome"
       },
       {
@@ -607,7 +617,10 @@
           "minecraft:snowy_plains",
           "minecraft:snowy_plains",
           "minecraft:snowy_plains",
-          "minecraft:snowy_taiga"
+          "minecraft:snowy_plains",
+          "minecraft:snowy_taiga",
+          "minecraft:snowy_taiga",
+          "minecraft:ice_spikes"
         ],
         "type": "moderner_beta:random_biome"
       },
@@ -694,7 +707,7 @@
               ],
               "condition": "moderner_beta:all_of"
             },
-            "result": "minecraft:badlands",
+            "result": "minecraft:windswept_hills",
             "type": "biome"
           },
           {
@@ -724,7 +737,7 @@
               ],
               "condition": "moderner_beta:all_of"
             },
-            "result": "minecraft:taiga",
+            "result": "minecraft:forest",
             "type": "biome"
           },
           {
@@ -768,7 +781,7 @@
               ],
               "condition": "moderner_beta:all_of"
             },
-            "result": "minecraft:sparse_jungle",
+            "result": "minecraft:forest",
             "type": "biome"
           },
           {
@@ -807,11 +820,11 @@
         "targets": {
           "minecraft:badlands*plateau": {
             "type": "biome",
-            "value": "minecraft:badlands"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:bamboo_jungle": {
             "type": "biome",
-            "value": "minecraft:bamboo_jungle*hills"
+            "value": "minecraft:forest*hills"
           },
           "minecraft:birch_forest": {
             "type": "biome",
@@ -823,7 +836,7 @@
           },
           "minecraft:desert": {
             "type": "biome",
-            "value": "minecraft:desert*hills"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:forest": {
             "type": "biome",
@@ -831,15 +844,15 @@
           },
           "minecraft:jungle": {
             "type": "biome",
-            "value": "minecraft:jungle*hills"
+            "value": "minecraft:forest*hills"
           },
           "minecraft:old_growth_pine_taiga": {
             "type": "biome",
-            "value": "minecraft:old_growth_pine_taiga*hills"
+            "value": "minecraft:forest*hills"
           },
           "minecraft:old_growth_spruce_taiga": {
             "type": "biome",
-            "value": "minecraft:old_growth_spruce_taiga*hills"
+            "value": "minecraft:forest*hills"
           },
           "minecraft:plains": {
             "type": "biome",
@@ -847,7 +860,7 @@
           },
           "minecraft:savanna": {
             "type": "biome",
-            "value": "minecraft:savanna_plateau"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:snowy_plains": {
             "type": "biome",
@@ -859,7 +872,7 @@
           },
           "minecraft:taiga": {
             "type": "biome",
-            "value": "minecraft:taiga*hills"
+            "value": "minecraft:forest*hills"
           },
           "minecraft:windswept_hills": {
             "type": "biome",
@@ -867,7 +880,7 @@
           },
           "minecraft:wooded_badlands": {
             "type": "biome",
-            "value": "minecraft:badlands"
+            "value": "minecraft:windswept_hills"
           }
         },
         "type": "moderner_beta:biome_replacement"
@@ -985,19 +998,19 @@
         "targets": {
           "minecraft:badlands": {
             "type": "biome",
-            "value": "minecraft:eroded_badlands"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:badlands*plateau": {
             "type": "biome",
-            "value": "minecraft:badlands*modified_plateau"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:birch_forest": {
             "type": "biome",
-            "value": "minecraft:old_growth_birch_forest"
+            "value": "minecraft:birch_forest"
           },
           "minecraft:birch_forest*hills": {
             "type": "biome",
-            "value": "minecraft:old_growth_birch_forest*hills"
+            "value": "minecraft:birch_forest*hills"
           },
           "minecraft:dark_forest": {
             "type": "biome",
@@ -1005,39 +1018,39 @@
           },
           "minecraft:desert": {
             "type": "biome",
-            "value": "minecraft:desert*lakes"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:forest": {
             "type": "biome",
-            "value": "minecraft:flower_forest"
+            "value": "minecraft:forest"
           },
           "minecraft:jungle": {
             "type": "biome",
-            "value": "minecraft:jungle*modified"
+            "value": "minecraft:forest"
           },
           "minecraft:mangrove_swamp": {
             "type": "biome",
-            "value": "minecraft:mangrove_swamp*hills"
+            "value": "minecraft:forest*hills"
           },
           "minecraft:old_growth_pine_taiga": {
             "type": "biome",
-            "value": "minecraft:old_growth_spruce_taiga"
+            "value": "minecraft:forest"
           },
           "minecraft:old_growth_pine_taiga*hills": {
             "type": "biome",
-            "value": "minecraft:old_growth_spruce_taiga*hills"
+            "value": "minecraft:forest*hills"
           },
           "minecraft:plains": {
             "type": "biome",
-            "value": "minecraft:sunflower_plains"
+            "value": "minecraft:plains"
           },
           "minecraft:savanna": {
             "type": "biome",
-            "value": "minecraft:windswept_savanna"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:savanna_plateau": {
             "type": "biome",
-            "value": "minecraft:windswept_savanna*plateau"
+            "value": "minecraft:windswept_gravelly_hills"
           },
           "minecraft:snowy_plains": {
             "type": "biome",
@@ -1049,15 +1062,15 @@
           },
           "minecraft:sparse_jungle": {
             "type": "biome",
-            "value": "minecraft:sparse_jungle*modified"
+            "value": "minecraft:forest"
           },
           "minecraft:swamp": {
             "type": "biome",
-            "value": "minecraft:swamp*hills"
+            "value": "minecraft:forest"
           },
           "minecraft:taiga": {
             "type": "biome",
-            "value": "minecraft:taiga*mountains"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:windswept_forest": {
             "type": "biome",
@@ -1069,7 +1082,7 @@
           },
           "minecraft:wooded_badlands": {
             "type": "biome",
-            "value": "minecraft:wooded_badlands*modified"
+            "value": "minecraft:windswept_hills"
           }
         },
         "type": "moderner_beta:biome_replacement"
@@ -1249,19 +1262,19 @@
         "targets": {
           "minecraft:badlands": {
             "type": "biome",
-            "value": "minecraft:eroded_badlands"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:badlands*plateau": {
             "type": "biome",
-            "value": "minecraft:badlands*modified_plateau"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:birch_forest": {
             "type": "biome",
-            "value": "minecraft:old_growth_birch_forest"
+            "value": "minecraft:birch_forest"
           },
           "minecraft:birch_forest*hills": {
             "type": "biome",
-            "value": "minecraft:old_growth_birch_forest*hills"
+            "value": "minecraft:birch_forest*hills"
           },
           "minecraft:dark_forest": {
             "type": "biome",
@@ -1269,39 +1282,39 @@
           },
           "minecraft:desert": {
             "type": "biome",
-            "value": "minecraft:desert*lakes"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:forest": {
             "type": "biome",
-            "value": "minecraft:flower_forest"
+            "value": "minecraft:forest"
           },
           "minecraft:jungle": {
             "type": "biome",
-            "value": "minecraft:jungle*modified"
+            "value": "minecraft:forest"
           },
           "minecraft:mangrove_swamp": {
             "type": "biome",
-            "value": "minecraft:mangrove_swamp*hills"
+            "value": "minecraft:forest*hills"
           },
           "minecraft:old_growth_pine_taiga": {
             "type": "biome",
-            "value": "minecraft:old_growth_spruce_taiga"
+            "value": "minecraft:forest"
           },
           "minecraft:old_growth_pine_taiga*hills": {
             "type": "biome",
-            "value": "minecraft:old_growth_spruce_taiga*hills"
+            "value": "minecraft:forest*hills"
           },
           "minecraft:plains": {
             "type": "biome",
-            "value": "minecraft:sunflower_plains"
+            "value": "minecraft:plains"
           },
           "minecraft:savanna": {
             "type": "biome",
-            "value": "minecraft:windswept_savanna"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:savanna_plateau": {
             "type": "biome",
-            "value": "minecraft:windswept_savanna*plateau"
+            "value": "minecraft:windswept_gravelly_hills"
           },
           "minecraft:snowy_plains": {
             "type": "biome",
@@ -1313,15 +1326,15 @@
           },
           "minecraft:sparse_jungle": {
             "type": "biome",
-            "value": "minecraft:sparse_jungle*modified"
+            "value": "minecraft:forest"
           },
           "minecraft:swamp": {
             "type": "biome",
-            "value": "minecraft:swamp*hills"
+            "value": "minecraft:forest"
           },
           "minecraft:taiga": {
             "type": "biome",
-            "value": "minecraft:taiga*mountains"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:windswept_forest": {
             "type": "biome",
@@ -1333,7 +1346,7 @@
           },
           "minecraft:wooded_badlands": {
             "type": "biome",
-            "value": "minecraft:wooded_badlands*modified"
+            "value": "minecraft:windswept_hills"
           }
         },
         "type": "moderner_beta:biome_replacement"
@@ -1395,7 +1408,7 @@
         },
         "onMatch": {
           "type": "biome",
-          "value": "sunflower_plains"
+          "value": "minecraft:plains"
         },
         "otherwise": {
           "type": "biome",
