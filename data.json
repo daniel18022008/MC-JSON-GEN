@@ -1084,7 +1084,7 @@
           },
           "minecraft:snowy_taiga": {
             "type": "biome",
-            "value": "minecraft:snowy_taiga*mountains"
+            "value": "minecraft:snowy_taiga"
           },
           "minecraft:sparse_jungle": {
             "type": "biome",
@@ -1344,7 +1344,7 @@
           },
           "minecraft:snowy_taiga": {
             "type": "biome",
-            "value": "minecraft:snowy_taiga*mountains"
+            "value": "minecraft:snowy_taiga"
           },
           "minecraft:sparse_jungle": {
             "type": "biome",
@@ -2209,7 +2209,7 @@
             },
             {
               "numerator": 1,
-              "denominator": 4,
+              "denominator": 8,
               "condition": "moderner_beta:random_chance"
             }
           ],
@@ -2599,7 +2599,7 @@
             },
             {
               "numerator": 1,
-              "denominator": 4,
+              "denominator": 8,
               "condition": "moderner_beta:random_chance"
             }
           ],
@@ -2989,7 +2989,7 @@
             },
             {
               "numerator": 1,
-              "denominator": 4,
+              "denominator": 8,
               "condition": "moderner_beta:random_chance"
             }
           ],
