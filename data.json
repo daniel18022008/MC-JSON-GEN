@@ -549,6 +549,10 @@
           "minecraft:plains",
           "minecraft:plains",
           "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:forest",
+          "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
@@ -562,8 +566,7 @@
         "seed": 200,
         "biomes": [
           "minecraft:windswept_hills",
-          "minecraft:windswept_forest",
-          "minecraft:windswept_gravelly_hills"
+          "minecraft:windswept_forest"
         ],
         "type": "moderner_beta:random_biome"
       },
@@ -577,11 +580,14 @@
           "minecraft:plains",
           "minecraft:plains",
           "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:plains",
           "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
-          "minecraft:windswept_hills",
+          "minecraft:forest",
+          "minecraft:forest",
           "minecraft:windswept_forest"
         ],
         "type": "moderner_beta:random_biome"
@@ -589,8 +595,15 @@
       {
         "id": "biome_pool_temperate_rare",
         "seed": 200,
-        "biome": "minecraft:windswept_gravelly_hills",
-        "type": "moderner_beta:constant_biome"
+        "type": "moderner_beta:random_biome",
+        "biomes": [
+          "minecraft:windswept_hills",
+          "minecraft:windswept_hills",
+          "minecraft:windswept_hills",
+          "minecraft:windswept_forest",
+          "minecraft:windswept_forest",
+          "minecraft:windswept_gravelly_hills"
+        ]
       },
       {
         "id": "biome_pool_cool",
@@ -601,11 +614,14 @@
           "minecraft:plains",
           "minecraft:plains",
           "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:plains",
           "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
-          "minecraft:windswept_hills",
+          "minecraft:forest",
+          "minecraft:forest",
           "minecraft:windswept_forest",
           "minecraft:snowy_taiga"
         ],
@@ -614,8 +630,15 @@
       {
         "id": "biome_pool_cool_rare",
         "seed": 200,
-        "biome": "minecraft:windswept_gravelly_hills",
-        "type": "moderner_beta:constant_biome"
+        "type": "moderner_beta:random_biome",
+        "biomes": [
+          "minecraft:windswept_hills",
+          "minecraft:windswept_hills",
+          "minecraft:windswept_forest",
+          "minecraft:windswept_forest",
+          "minecraft:windswept_forest",
+          "minecraft:windswept_gravelly_hills"
+        ]
       },
       {
         "id": "biome_pool_snowy",
@@ -672,7 +695,7 @@
         "type": "moderner_beta:biome_replacement"
       },
       {
-        "level": 2,
+        "level": 3,
         "seedModifier": 1,
         "zoomType": "modal",
         "id": "land",
