@@ -547,10 +547,12 @@
         "biomes": [
           "minecraft:plains",
           "minecraft:plains",
-          "minecraft:forest",
-          "minecraft:forest",
-          "minecraft:windswept_hills",
-          "minecraft:windswept_forest"
+          "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:dark_forest",
+          "minecraft:dark_forest",
+          "minecraft:dark_forest",
+          "minecraft:windswept_hills"
         ],
         "type": "moderner_beta:random_biome"
       },
@@ -572,11 +574,12 @@
           "minecraft:plains",
           "minecraft:plains",
           "minecraft:plains",
-          "minecraft:forest",
-          "minecraft:forest",
-          "minecraft:forest",
-          "minecraft:windswept_hills",
-          "minecraft:windswept_forest"
+          "minecraft:plains",
+          "minecraft:dark_forest",
+          "minecraft:dark_forest",
+          "minecraft:dark_forest",
+          "minecraft:dark_forest",
+          "minecraft:windswept_hills"
         ],
         "type": "moderner_beta:random_biome"
       },
@@ -593,11 +596,11 @@
           "minecraft:plains",
           "minecraft:plains",
           "minecraft:plains",
-          "minecraft:forest",
-          "minecraft:forest",
-          "minecraft:forest",
-          "minecraft:windswept_hills",
-          "minecraft:windswept_forest",
+          "minecraft:plains",
+          "minecraft:dark_forest",
+          "minecraft:dark_forest",
+          "minecraft:dark_forest",
+          "minecraft:dark_forest",
           "minecraft:snowy_taiga"
         ],
         "type": "moderner_beta:random_biome"
@@ -735,7 +738,7 @@
               ],
               "condition": "moderner_beta:all_of"
             },
-            "result": "minecraft:forest",
+            "result": "minecraft:dark_forest",
             "type": "biome"
           },
           {
@@ -779,7 +782,7 @@
               ],
               "condition": "moderner_beta:all_of"
             },
-            "result": "minecraft:forest",
+            "result": "minecraft:dark_forest",
             "type": "biome"
           },
           {
@@ -822,15 +825,7 @@
           },
           "minecraft:bamboo_jungle": {
             "type": "biome",
-            "value": "minecraft:forest*hills"
-          },
-          "minecraft:forest": {
-            "type": "biome",
-            "value": "minecraft:forest*hills"
-          },
-          "minecraft:dark_forest": {
-            "type": "biome",
-            "value": "minecraft:plains"
+            "value": "minecraft:dark_forest*hills"
           },
           "minecraft:desert": {
             "type": "biome",
@@ -838,19 +833,19 @@
           },
           "minecraft:jungle": {
             "type": "biome",
-            "value": "minecraft:forest*hills"
+            "value": "minecraft:dark_forest*hills"
           },
           "minecraft:old_growth_pine_taiga": {
             "type": "biome",
-            "value": "minecraft:forest*hills"
+            "value": "minecraft:dark_forest*hills"
           },
           "minecraft:old_growth_spruce_taiga": {
             "type": "biome",
-            "value": "minecraft:forest*hills"
+            "value": "minecraft:dark_forest*hills"
           },
           "minecraft:plains": {
             "type": "biome",
-            "value": "minecraft:forest"
+            "value": "minecraft:dark_forest"
           },
           "minecraft:savanna": {
             "type": "biome",
@@ -866,7 +861,7 @@
           },
           "minecraft:taiga": {
             "type": "biome",
-            "value": "minecraft:forest*hills"
+            "value": "minecraft:dark_forest*hills"
           },
           "minecraft:windswept_hills": {
             "type": "biome",
@@ -887,7 +882,7 @@
           "seed": 1000,
           "biomes": [
             "minecraft:plains",
-            "minecraft:forest"
+            "minecraft:dark_forest"
           ],
           "type": "moderner_beta:random_biome"
         },
@@ -903,7 +898,7 @@
             "predicate": {
               "terms": [
                 {
-                  "biome": "minecraft:forest",
+                  "biome": "minecraft:dark_forest",
                   "condition": "moderner_beta:single_match"
                 },
                 {
@@ -919,7 +914,7 @@
               ],
               "condition": "moderner_beta:all_of"
             },
-            "result": "minecraft:forest*hills",
+            "result": "minecraft:dark_forest*hills",
             "type": "biome"
           },
           {
@@ -998,15 +993,11 @@
             "type": "biome",
             "value": "minecraft:windswept_hills"
           },
-          "minecraft:forest": {
-            "type": "biome",
-            "value": "minecraft:forest"
-          },
-          "minecraft:forest*hills": {
-            "type": "biome",
-            "value": "minecraft:forest*hills"
-          },
           "minecraft:dark_forest": {
+            "type": "biome",
+            "value": "minecraft:dark_forest"
+          },
+          "minecraft:dark_forest*hills": {
             "type": "biome",
             "value": "minecraft:dark_forest*hills"
           },
@@ -1016,19 +1007,19 @@
           },
           "minecraft:jungle": {
             "type": "biome",
-            "value": "minecraft:forest"
+            "value": "minecraft:dark_forest"
           },
           "minecraft:mangrove_swamp": {
             "type": "biome",
-            "value": "minecraft:forest*hills"
+            "value": "minecraft:dark_forest*hills"
           },
           "minecraft:old_growth_pine_taiga": {
             "type": "biome",
-            "value": "minecraft:forest"
+            "value": "minecraft:dark_forest"
           },
           "minecraft:old_growth_pine_taiga*hills": {
             "type": "biome",
-            "value": "minecraft:forest*hills"
+            "value": "minecraft:dark_forest*hills"
           },
           "minecraft:plains": {
             "type": "biome",
@@ -1052,11 +1043,11 @@
           },
           "minecraft:sparse_jungle": {
             "type": "biome",
-            "value": "minecraft:forest"
+            "value": "minecraft:dark_forest"
           },
           "minecraft:swamp": {
             "type": "biome",
-            "value": "minecraft:forest"
+            "value": "minecraft:dark_forest"
           },
           "minecraft:taiga": {
             "type": "biome",
@@ -1115,14 +1106,14 @@
                     "~minecraft:cherry_grove",
                     "~minecraft:dark_forest",
                     "~minecraft:meadow",
-                    "~minecraft:forest",
+                    "~minecraft:dark_forest",
                     "~minecraft:sparse_jungle",
                     "~minecraft:windswept_forest",
                     "minecraft:deep_ocean",
                     "~minecraft:sunflower_plains",
                     "~minecraft:jungle",
                     "minecraft:ocean",
-                    "~minecraft:forest",
+                    "~minecraft:dark_forest",
                     "~minecraft:flower_forest",
                     "~minecraft:old_growth_pine_taiga",
                     "~minecraft:snowy_taiga",
@@ -1148,11 +1139,11 @@
                       "minecraft:ocean"
                     ],
                     [
-                      "~minecraft:forest",
+                      "~minecraft:dark_forest",
                       "~minecraft:old_growth_pine_taiga",
                       "~minecraft:cherry_grove",
                       "~minecraft:dark_forest",
-                      "~minecraft:forest",
+                      "~minecraft:dark_forest",
                       "~minecraft:flower_forest"
                     ],
                     [
@@ -1258,15 +1249,11 @@
             "type": "biome",
             "value": "minecraft:windswept_hills"
           },
-          "minecraft:forest": {
-            "type": "biome",
-            "value": "minecraft:forest"
-          },
-          "minecraft:forest*hills": {
-            "type": "biome",
-            "value": "minecraft:forest*hills"
-          },
           "minecraft:dark_forest": {
+            "type": "biome",
+            "value": "minecraft:dark_forest"
+          },
+          "minecraft:dark_forest*hills": {
             "type": "biome",
             "value": "minecraft:dark_forest*hills"
           },
@@ -1276,19 +1263,19 @@
           },
           "minecraft:jungle": {
             "type": "biome",
-            "value": "minecraft:forest"
+            "value": "minecraft:dark_forest"
           },
           "minecraft:mangrove_swamp": {
             "type": "biome",
-            "value": "minecraft:forest*hills"
+            "value": "minecraft:dark_forest*hills"
           },
           "minecraft:old_growth_pine_taiga": {
             "type": "biome",
-            "value": "minecraft:forest"
+            "value": "minecraft:dark_forest"
           },
           "minecraft:old_growth_pine_taiga*hills": {
             "type": "biome",
-            "value": "minecraft:forest*hills"
+            "value": "minecraft:dark_forest*hills"
           },
           "minecraft:plains": {
             "type": "biome",
@@ -1312,11 +1299,11 @@
           },
           "minecraft:sparse_jungle": {
             "type": "biome",
-            "value": "minecraft:forest"
+            "value": "minecraft:dark_forest"
           },
           "minecraft:swamp": {
             "type": "biome",
-            "value": "minecraft:forest"
+            "value": "minecraft:dark_forest"
           },
           "minecraft:taiga": {
             "type": "biome",
@@ -1413,7 +1400,7 @@
       },
       {
         "biomeSpecificOceans": {
-          "minecraft:forest": "minecraft:forest"
+          "minecraft:dark_forest": "minecraft:dark_forest"
         },
         "landChance": 3,
         "oceanChance": 5,
@@ -1476,7 +1463,7 @@
                     "term": {
                       "biomes": [
                         "~minecraft:bamboo_jungle",
-                        "minecraft:forest",
+                        "minecraft:dark_forest",
                         "~minecraft:sparse_jungle",
                         "minecraft:deep_ocean",
                         "~minecraft:jungle",
