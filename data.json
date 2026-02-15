@@ -1730,12 +1730,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": -590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1765,12 +1765,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": -590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1802,12 +1802,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": -590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1842,12 +1842,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": -590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1879,12 +1879,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": -590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1916,12 +1916,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": -590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1953,12 +1953,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": -590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1990,12 +1990,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": 590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2025,12 +2025,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": 590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2062,12 +2062,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": 590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2102,12 +2102,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": 590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2139,12 +2139,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": 590,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2176,12 +2176,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 12,
+              "radiusZ": 20,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": -503,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2213,12 +2213,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 12,
+              "radiusZ": 20,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
               "centerZ": 503,
-              "radiusX": 640,
+              "radiusX": 900,
               "condition": "moderner_beta:in_range"
             },
             {
