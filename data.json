@@ -1730,12 +1730,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 75,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 590,
-              "radiusX": 640,
+              "centerZ": 885,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1765,12 +1765,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 75,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 590,
-              "radiusX": 640,
+              "centerZ": 885,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1802,12 +1802,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 75,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 590,
-              "radiusX": 640,
+              "centerZ": 885,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1842,12 +1842,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 75,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 590,
-              "radiusX": 640,
+              "centerZ": 885,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1879,12 +1879,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 75,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 590,
-              "radiusX": 640,
+              "centerZ": 885,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1916,12 +1916,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 75,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -590,
-              "radiusX": 640,
+              "centerZ": -885,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1951,12 +1951,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 75,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -590,
-              "radiusX": 640,
+              "centerZ": -885,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1988,12 +1988,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 75,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -590,
-              "radiusX": 640,
+              "centerZ": -885,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2028,12 +2028,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 75,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -590,
-              "radiusX": 640,
+              "centerZ": -885,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2065,12 +2065,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 50,
+              "radiusZ": 75,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -590,
-              "radiusX": 640,
+              "centerZ": -885,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2102,12 +2102,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 12,
+              "radiusZ": 18,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 503,
-              "radiusX": 640,
+              "centerZ": 754,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2139,12 +2139,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 12,
+              "radiusZ": 18,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -503,
-              "radiusX": 640,
+              "centerZ": -754,
+              "radiusX": 960,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2179,21 +2179,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 536,
-                  "radiusX": 640,
+                  "centerZ": 804,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -536,
-                  "radiusX": 640,
+                  "centerZ": -804,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2230,21 +2230,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 536,
-                  "radiusX": 640,
+                  "centerZ": 804,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -536,
-                  "radiusX": 640,
+                  "centerZ": -804,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2281,21 +2281,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 528,
-                  "radiusX": 640,
+                  "centerZ": 792,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -528,
-                  "radiusX": 640,
+                  "centerZ": -792,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2332,21 +2332,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 528,
-                  "radiusX": 640,
+                  "centerZ": 792,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -528,
-                  "radiusX": 640,
+                  "centerZ": -792,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2383,21 +2383,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 520,
-                  "radiusX": 640,
+                  "centerZ": 780,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -520,
-                  "radiusX": 640,
+                  "centerZ": -780,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2434,21 +2434,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 520,
-                  "radiusX": 640,
+                  "centerZ": 780,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -520,
-                  "radiusX": 640,
+                  "centerZ": -780,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2485,21 +2485,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 512,
-                  "radiusX": 640,
+                  "centerZ": 768,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -512,
-                  "radiusX": 640,
+                  "centerZ": -768,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2536,21 +2536,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 512,
-                  "radiusX": 640,
+                  "centerZ": 768,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -512,
-                  "radiusX": 640,
+                  "centerZ": -768,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2587,21 +2587,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 504,
-                  "radiusX": 640,
+                  "centerZ": 756,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -504,
-                  "radiusX": 640,
+                  "centerZ": -756,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2638,21 +2638,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 504,
-                  "radiusX": 640,
+                  "centerZ": 756,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -504,
-                  "radiusX": 640,
+                  "centerZ": -756,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2689,21 +2689,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 496,
-                  "radiusX": 640,
+                  "centerZ": 744,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -496,
-                  "radiusX": 640,
+                  "centerZ": -744,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2740,21 +2740,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 496,
-                  "radiusX": 640,
+                  "centerZ": 744,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -496,
-                  "radiusX": 640,
+                  "centerZ": -744,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2791,21 +2791,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 488,
-                  "radiusX": 640,
+                  "centerZ": 732,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -488,
-                  "radiusX": 640,
+                  "centerZ": -732,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2842,21 +2842,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 488,
-                  "radiusX": 640,
+                  "centerZ": 732,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -488,
-                  "radiusX": 640,
+                  "centerZ": -732,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2893,21 +2893,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 480,
-                  "radiusX": 640,
+                  "centerZ": 720,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -480,
-                  "radiusX": 640,
+                  "centerZ": -720,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2944,21 +2944,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 480,
-                  "radiusX": 640,
+                  "centerZ": 720,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -480,
-                  "radiusX": 640,
+                  "centerZ": -720,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2995,21 +2995,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 472,
-                  "radiusX": 640,
+                  "centerZ": 708,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -472,
-                  "radiusX": 640,
+                  "centerZ": -708,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3046,21 +3046,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 472,
-                  "radiusX": 640,
+                  "centerZ": 708,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -472,
-                  "radiusX": 640,
+                  "centerZ": -708,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3097,21 +3097,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 536,
-                  "radiusX": 640,
+                  "centerZ": 804,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -536,
-                  "radiusX": 640,
+                  "centerZ": -804,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3156,21 +3156,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 528,
-                  "radiusX": 640,
+                  "centerZ": 792,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -528,
-                  "radiusX": 640,
+                  "centerZ": -792,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3215,21 +3215,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 520,
-                  "radiusX": 640,
+                  "centerZ": 780,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -520,
-                  "radiusX": 640,
+                  "centerZ": -780,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3274,21 +3274,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 512,
-                  "radiusX": 640,
+                  "centerZ": 768,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -512,
-                  "radiusX": 640,
+                  "centerZ": -768,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3333,21 +3333,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 504,
-                  "radiusX": 640,
+                  "centerZ": 756,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -504,
-                  "radiusX": 640,
+                  "centerZ": -756,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3392,21 +3392,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 496,
-                  "radiusX": 640,
+                  "centerZ": 744,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -496,
-                  "radiusX": 640,
+                  "centerZ": -744,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3451,21 +3451,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 488,
-                  "radiusX": 640,
+                  "centerZ": 732,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -488,
-                  "radiusX": 640,
+                  "centerZ": -732,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3510,21 +3510,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 480,
-                  "radiusX": 640,
+                  "centerZ": 720,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -480,
-                  "radiusX": 640,
+                  "centerZ": -720,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3569,21 +3569,21 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 472,
-                  "radiusX": 640,
+                  "centerZ": 708,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 4,
+                  "radiusZ": 6,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -472,
-                  "radiusX": 640,
+                  "centerZ": -708,
+                  "radiusX": 960,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3659,12 +3659,12 @@
       },
       {
         "predicate": {
-          "radiusZ": 640,
+          "radiusZ": 960,
           "evenSize": true,
           "shape": "rectangle",
           "centerX": 0,
           "centerZ": 0,
-          "radiusX": 640,
+          "radiusX": 960,
           "condition": "moderner_beta:in_range"
         },
         "onMatch": {
