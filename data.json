@@ -1845,30 +1845,57 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 74,
+                  "radiusZ": 70,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 560,
                   "centerZ": -592,
-                  "radiusX": 70,
+                  "radiusX": 72,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 58,
+                  "radiusZ": 40,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": 600,
-                  "centerZ": -575,
-                  "radiusX": 46,
+                  "centerX": 610,
+                  "centerZ": -565,
+                  "radiusX": 38,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 52,
+                  "radiusZ": 34,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 505,
+                  "centerZ": -620,
+                  "radiusX": 44,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 24,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 542,
+                  "centerZ": -548,
+                  "radiusX": 30,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 22,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 595,
+                  "centerZ": -614,
+                  "radiusX": 26,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 30,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 520,
-                  "centerZ": -607,
-                  "radiusX": 40,
+                  "centerZ": -575,
+                  "radiusX": 35,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -1900,30 +1927,57 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 78,
+                  "radiusZ": 70,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": -290,
-                  "centerZ": -594,
-                  "radiusX": 250,
+                  "centerX": -300,
+                  "centerZ": -595,
+                  "radiusX": 220,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 58,
+                  "radiusZ": 42,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": -180,
-                  "centerZ": -576,
-                  "radiusX": 165,
-                  "condition": "moderner_beta:in_range"
-                },
-                {
-                  "radiusZ": 50,
-                  "evenSize": true,
-                  "shape": "rectangle",
-                  "centerX": -360,
-                  "centerZ": -610,
+                  "centerX": -160,
+                  "centerZ": -565,
                   "radiusX": 130,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 34,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -400,
+                  "centerZ": -620,
+                  "radiusX": 90,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 28,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -250,
+                  "centerZ": -540,
+                  "radiusX": 80,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 24,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -350,
+                  "centerZ": -555,
+                  "radiusX": 75,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 26,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -205,
+                  "centerZ": -615,
+                  "radiusX": 68,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -1955,30 +2009,57 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 74,
+                  "radiusZ": 66,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 220,
                   "centerZ": -592,
-                  "radiusX": 110,
+                  "radiusX": 105,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 52,
+                  "radiusZ": 36,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": 255,
-                  "centerZ": -574,
-                  "radiusX": 72,
+                  "centerX": 280,
+                  "centerZ": -566,
+                  "radiusX": 60,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 48,
+                  "radiusZ": 30,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": 170,
-                  "centerZ": -608,
-                  "radiusX": 62,
+                  "centerX": 165,
+                  "centerZ": -620,
+                  "radiusX": 55,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 22,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 238,
+                  "centerZ": -545,
+                  "radiusX": 40,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 20,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 190,
+                  "centerZ": -560,
+                  "radiusX": 34,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 22,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 260,
+                  "centerZ": -612,
+                  "radiusX": 36,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2010,30 +2091,57 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 72,
+                  "radiusZ": 64,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 420,
                   "centerZ": -590,
-                  "radiusX": 95,
+                  "radiusX": 92,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 50,
+                  "radiusZ": 34,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": 450,
-                  "centerZ": -573,
-                  "radiusX": 65,
+                  "centerX": 470,
+                  "centerZ": -566,
+                  "radiusX": 52,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 46,
+                  "radiusZ": 28,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": 380,
-                  "centerZ": -606,
-                  "radiusX": 55,
+                  "centerX": 370,
+                  "centerZ": -617,
+                  "radiusX": 48,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 20,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 445,
+                  "centerZ": -545,
+                  "radiusX": 32,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 18,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 392,
+                  "centerZ": -558,
+                  "radiusX": 30,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 20,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 455,
+                  "centerZ": -607,
+                  "radiusX": 28,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2177,30 +2285,57 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 74,
+                  "radiusZ": 66,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": -220,
-                  "centerZ": 588,
-                  "radiusX": 200,
+                  "centerZ": 590,
+                  "radiusX": 182,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 50,
+                  "radiusZ": 36,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": -120,
+                  "centerX": -115,
+                  "centerZ": 565,
+                  "radiusX": 102,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 30,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -315,
+                  "centerZ": 615,
+                  "radiusX": 88,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 22,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -205,
+                  "centerZ": 545,
+                  "radiusX": 60,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 24,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -280,
                   "centerZ": 572,
-                  "radiusX": 120,
+                  "radiusX": 66,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 48,
+                  "radiusZ": 20,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": -300,
-                  "centerZ": 606,
-                  "radiusX": 105,
+                  "centerX": -145,
+                  "centerZ": 625,
+                  "radiusX": 54,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2232,30 +2367,57 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 72,
+                  "radiusZ": 64,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 260,
                   "centerZ": 590,
-                  "radiusX": 145,
+                  "radiusX": 132,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 52,
+                  "radiusZ": 34,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": 315,
+                  "centerX": 325,
+                  "centerZ": 568,
+                  "radiusX": 78,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 28,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 205,
+                  "centerZ": 616,
+                  "radiusX": 70,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 20,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 278,
+                  "centerZ": 546,
+                  "radiusX": 46,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 18,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 232,
                   "centerZ": 575,
-                  "radiusX": 95,
+                  "radiusX": 44,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 46,
+                  "radiusZ": 18,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": 210,
-                  "centerZ": 606,
-                  "radiusX": 80,
+                  "centerX": 300,
+                  "centerZ": 623,
+                  "radiusX": 40,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2287,30 +2449,48 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 20,
+                  "radiusZ": 18,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": -320,
                   "centerZ": -503,
-                  "radiusX": 220,
+                  "radiusX": 185,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 14,
+                  "radiusZ": 11,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": -250,
-                  "centerZ": -495,
-                  "radiusX": 140,
+                  "centerX": -245,
+                  "centerZ": -492,
+                  "radiusX": 98,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 12,
+                  "radiusZ": 10,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": -375,
-                  "centerZ": -511,
-                  "radiusX": 110,
+                  "centerX": -380,
+                  "centerZ": -515,
+                  "radiusX": 92,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 8,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -300,
+                  "centerZ": -487,
+                  "radiusX": 65,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 7,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -350,
+                  "centerZ": -497,
+                  "radiusX": 58,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2342,30 +2522,48 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 20,
+                  "radiusZ": 18,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 320,
                   "centerZ": 503,
-                  "radiusX": 170,
+                  "radiusX": 150,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 14,
+                  "radiusZ": 11,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": 370,
-                  "centerZ": 495,
-                  "radiusX": 105,
+                  "centerX": 375,
+                  "centerZ": 493,
+                  "radiusX": 88,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 12,
+                  "radiusZ": 10,
                   "evenSize": true,
                   "shape": "rectangle",
-                  "centerX": 275,
-                  "centerZ": 511,
-                  "radiusX": 90,
+                  "centerX": 270,
+                  "centerZ": 515,
+                  "radiusX": 82,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 8,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 337,
+                  "centerZ": 487,
+                  "radiusX": 58,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 7,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 292,
+                  "centerZ": 498,
+                  "radiusX": 54,
                   "condition": "moderner_beta:in_range"
                 }
               ]
