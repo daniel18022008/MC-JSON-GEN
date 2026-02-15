@@ -1845,19 +1845,14 @@
               "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
-              "centerX": 0,
+              "centerX": 580,
               "centerZ": -590,
-              "radiusX": 900,
+              "radiusX": 60,
               "condition": "moderner_beta:in_range"
             },
             {
               "biome": "minecraft:snowy_plains",
               "condition": "moderner_beta:single_match"
-            },
-            {
-              "numerator": 1,
-              "denominator": 7,
-              "condition": "moderner_beta:random_chance"
             }
           ],
           "condition": "moderner_beta:all_of"
@@ -1882,19 +1877,14 @@
               "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
-              "centerX": 0,
+              "centerX": -260,
               "centerZ": -590,
-              "radiusX": 900,
+              "radiusX": 380,
               "condition": "moderner_beta:in_range"
             },
             {
               "biome": "minecraft:snowy_plains",
               "condition": "moderner_beta:single_match"
-            },
-            {
-              "numerator": 1,
-              "denominator": 6,
-              "condition": "moderner_beta:random_chance"
             }
           ],
           "condition": "moderner_beta:all_of"
@@ -1919,19 +1909,14 @@
               "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
-              "centerX": 0,
+              "centerX": 220,
               "centerZ": -590,
-              "radiusX": 900,
+              "radiusX": 120,
               "condition": "moderner_beta:in_range"
             },
             {
               "biome": "minecraft:snowy_plains",
               "condition": "moderner_beta:single_match"
-            },
-            {
-              "numerator": 1,
-              "denominator": 8,
-              "condition": "moderner_beta:random_chance"
             }
           ],
           "condition": "moderner_beta:all_of"
@@ -1956,19 +1941,14 @@
               "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
-              "centerX": 0,
+              "centerX": 420,
               "centerZ": -590,
-              "radiusX": 900,
+              "radiusX": 100,
               "condition": "moderner_beta:in_range"
             },
             {
               "biome": "minecraft:snowy_plains",
               "condition": "moderner_beta:single_match"
-            },
-            {
-              "numerator": 1,
-              "denominator": 7,
-              "condition": "moderner_beta:random_chance"
             }
           ],
           "condition": "moderner_beta:all_of"
@@ -2105,19 +2085,14 @@
               "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
-              "centerX": 0,
+              "centerX": -220,
               "centerZ": 590,
-              "radiusX": 900,
+              "radiusX": 260,
               "condition": "moderner_beta:in_range"
             },
             {
               "biome": "minecraft:snowy_plains",
               "condition": "moderner_beta:single_match"
-            },
-            {
-              "numerator": 1,
-              "denominator": 4,
-              "condition": "moderner_beta:random_chance"
             }
           ],
           "condition": "moderner_beta:all_of"
@@ -2142,19 +2117,14 @@
               "radiusZ": 80,
               "evenSize": true,
               "shape": "rectangle",
-              "centerX": 0,
+              "centerX": 260,
               "centerZ": 590,
-              "radiusX": 900,
+              "radiusX": 180,
               "condition": "moderner_beta:in_range"
             },
             {
               "biome": "minecraft:snowy_plains",
               "condition": "moderner_beta:single_match"
-            },
-            {
-              "numerator": 1,
-              "denominator": 5,
-              "condition": "moderner_beta:random_chance"
             }
           ],
           "condition": "moderner_beta:all_of"
@@ -2179,19 +2149,14 @@
               "radiusZ": 20,
               "evenSize": true,
               "shape": "rectangle",
-              "centerX": 0,
+              "centerX": -320,
               "centerZ": -503,
-              "radiusX": 900,
+              "radiusX": 320,
               "condition": "moderner_beta:in_range"
             },
             {
               "biome": "minecraft:snowy_plains",
               "condition": "moderner_beta:single_match"
-            },
-            {
-              "numerator": 1,
-              "denominator": 10,
-              "condition": "moderner_beta:random_chance"
             }
           ],
           "condition": "moderner_beta:all_of"
@@ -2216,19 +2181,14 @@
               "radiusZ": 20,
               "evenSize": true,
               "shape": "rectangle",
-              "centerX": 0,
+              "centerX": 320,
               "centerZ": 503,
-              "radiusX": 900,
+              "radiusX": 220,
               "condition": "moderner_beta:in_range"
             },
             {
               "biome": "minecraft:snowy_plains",
               "condition": "moderner_beta:single_match"
-            },
-            {
-              "numerator": 1,
-              "denominator": 9,
-              "condition": "moderner_beta:random_chance"
             }
           ],
           "condition": "moderner_beta:all_of"
