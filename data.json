@@ -6632,123 +6632,6 @@
         "predicate": {
           "terms": [
             {
-              "condition": "moderner_beta:any_of",
-              "terms": [
-                {
-                  "radiusZ": 4,
-                  "evenSize": true,
-                  "shape": "rectangle",
-                  "centerX": 0,
-                  "centerZ": 536,
-                  "radiusX": 640,
-                  "condition": "moderner_beta:in_range"
-                },
-                {
-                  "radiusZ": 4,
-                  "evenSize": true,
-                  "shape": "rectangle",
-                  "centerX": 0,
-                  "centerZ": 528,
-                  "radiusX": 640,
-                  "condition": "moderner_beta:in_range"
-                },
-                {
-                  "radiusZ": 4,
-                  "evenSize": true,
-                  "shape": "rectangle",
-                  "centerX": 0,
-                  "centerZ": 520,
-                  "radiusX": 640,
-                  "condition": "moderner_beta:in_range"
-                },
-                {
-                  "radiusZ": 4,
-                  "evenSize": true,
-                  "shape": "rectangle",
-                  "centerX": 0,
-                  "centerZ": 512,
-                  "radiusX": 640,
-                  "condition": "moderner_beta:in_range"
-                },
-                {
-                  "radiusZ": 4,
-                  "evenSize": true,
-                  "shape": "rectangle",
-                  "centerX": 0,
-                  "centerZ": 504,
-                  "radiusX": 640,
-                  "condition": "moderner_beta:in_range"
-                },
-                {
-                  "radiusZ": 4,
-                  "evenSize": true,
-                  "shape": "rectangle",
-                  "centerX": 0,
-                  "centerZ": 496,
-                  "radiusX": 640,
-                  "condition": "moderner_beta:in_range"
-                },
-                {
-                  "radiusZ": 4,
-                  "evenSize": true,
-                  "shape": "rectangle",
-                  "centerX": 0,
-                  "centerZ": 488,
-                  "radiusX": 640,
-                  "condition": "moderner_beta:in_range"
-                },
-                {
-                  "radiusZ": 4,
-                  "evenSize": true,
-                  "shape": "rectangle",
-                  "centerX": 0,
-                  "centerZ": 480,
-                  "radiusX": 640,
-                  "condition": "moderner_beta:in_range"
-                },
-                {
-                  "radiusZ": 4,
-                  "evenSize": true,
-                  "shape": "rectangle",
-                  "centerX": 0,
-                  "centerZ": 472,
-                  "radiusX": 640,
-                  "condition": "moderner_beta:in_range"
-                }
-              ]
-            },
-            {
-              "term": {
-                "biomes": [
-                  "minecraft:ocean",
-                  "minecraft:deep_ocean",
-                  "minecraft:frozen_ocean",
-                  "minecraft:deep_frozen_ocean"
-                ],
-                "condition": "moderner_beta:in_set"
-              },
-              "condition": "moderner_beta:inverted"
-            }
-          ],
-          "condition": "moderner_beta:all_of"
-        },
-        "onMatch": {
-          "type": "biome",
-          "value": "minecraft:snowy_taiga"
-        },
-        "otherwise": {
-          "type": "biome",
-          "value": "minecraft:the_void*null"
-        },
-        "id": "land",
-        "seed": 9510,
-        "parent": "land",
-        "type": "moderner_beta:conditional_overlay"
-      },
-      {
-        "predicate": {
-          "terms": [
-            {
               "term": {
                 "biomes": [
                   "minecraft:ocean",
@@ -6778,6 +6661,110 @@
         },
         "id": "land",
         "seed": 9530,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "radiusZ": 80,
+              "evenSize": true,
+              "shape": "rectangle",
+              "centerX": 0,
+              "centerZ": 590,
+              "radiusX": 900,
+              "condition": "moderner_beta:in_range"
+            },
+            {
+              "biome": "minecraft:ocean",
+              "condition": "moderner_beta:single_match"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:frozen_ocean"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 9531,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "radiusZ": 80,
+              "evenSize": true,
+              "shape": "rectangle",
+              "centerX": 0,
+              "centerZ": 590,
+              "radiusX": 900,
+              "condition": "moderner_beta:in_range"
+            },
+            {
+              "biome": "minecraft:deep_ocean",
+              "condition": "moderner_beta:single_match"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:deep_frozen_ocean"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 9532,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "radiusZ": 80,
+              "evenSize": true,
+              "shape": "rectangle",
+              "centerX": 0,
+              "centerZ": 590,
+              "radiusX": 900,
+              "condition": "moderner_beta:in_range"
+            },
+            {
+              "term": {
+                "biomes": [
+                  "minecraft:ocean",
+                  "minecraft:deep_ocean",
+                  "minecraft:frozen_ocean",
+                  "minecraft:deep_frozen_ocean"
+                ],
+                "condition": "moderner_beta:in_set"
+              },
+              "condition": "moderner_beta:inverted"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:snowy_taiga"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 9533,
         "parent": "land",
         "type": "moderner_beta:conditional_overlay"
       },
