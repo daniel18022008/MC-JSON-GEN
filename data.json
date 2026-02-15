@@ -600,6 +600,8 @@
           "minecraft:windswept_hills",
           "minecraft:windswept_hills",
           "minecraft:windswept_hills",
+          "minecraft:windswept_hills",
+          "minecraft:windswept_forest",
           "minecraft:windswept_forest",
           "minecraft:windswept_forest",
           "minecraft:windswept_gravelly_hills"
@@ -634,6 +636,8 @@
         "biomes": [
           "minecraft:windswept_hills",
           "minecraft:windswept_hills",
+          "minecraft:windswept_hills",
+          "minecraft:windswept_forest",
           "minecraft:windswept_forest",
           "minecraft:windswept_forest",
           "minecraft:windswept_forest",
@@ -1096,7 +1100,7 @@
           },
           "minecraft:windswept_forest": {
             "type": "biome",
-            "value": "minecraft:windswept_gravelly_hills"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:windswept_hills": {
             "type": "biome",
@@ -1356,7 +1360,7 @@
           },
           "minecraft:windswept_forest": {
             "type": "biome",
-            "value": "minecraft:windswept_gravelly_hills"
+            "value": "minecraft:windswept_hills"
           },
           "minecraft:windswept_hills": {
             "type": "biome",
