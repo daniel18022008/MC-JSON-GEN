@@ -433,7 +433,7 @@
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:mushroom_fields"
+          "value": "minecraft:deep_ocean"
         },
         "otherwise": {
           "type": "biome",
@@ -575,8 +575,8 @@
           "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
-          "minecraft:dark_forest",
-          "minecraft:birch_forest",
+          "minecraft:taiga",
+          "minecraft:savanna",
           "minecraft:windswept_hills",
           "minecraft:windswept_forest"
         ],
@@ -828,7 +828,7 @@
           },
           "minecraft:birch_forest": {
             "type": "biome",
-            "value": "minecraft:birch_forest*hills"
+            "value": "minecraft:savanna_plateau"
           },
           "minecraft:dark_forest": {
             "type": "biome",
@@ -1006,15 +1006,15 @@
           },
           "minecraft:birch_forest": {
             "type": "biome",
-            "value": "minecraft:birch_forest"
+            "value": "minecraft:savanna"
           },
           "minecraft:birch_forest*hills": {
             "type": "biome",
-            "value": "minecraft:birch_forest*hills"
+            "value": "minecraft:savanna_plateau"
           },
           "minecraft:dark_forest": {
             "type": "biome",
-            "value": "minecraft:dark_forest*hills"
+            "value": "minecraft:taiga*hills"
           },
           "minecraft:desert": {
             "type": "biome",
@@ -1123,7 +1123,7 @@
                     "~minecraft:plains",
                     "~minecraft:ice_spikes",
                     "~minecraft:cherry_grove",
-                    "~minecraft:dark_forest",
+                    "~minecraft:taiga",
                     "~minecraft:meadow",
                     "~minecraft:forest",
                     "~minecraft:sparse_jungle",
@@ -1132,9 +1132,9 @@
                     "~minecraft:sunflower_plains",
                     "~minecraft:jungle",
                     "minecraft:ocean",
-                    "~minecraft:birch_forest",
+                    "~minecraft:savanna",
                     "~minecraft:flower_forest",
-                    "~minecraft:old_growth_birch_forest",
+                    "~minecraft:old_growth_pine_taiga",
                     "~minecraft:snowy_taiga",
                     "~minecraft:desert",
                     "minecraft:badlands",
@@ -1159,10 +1159,10 @@
                     ],
                     [
                       "~minecraft:forest",
-                      "~minecraft:old_growth_birch_forest",
+                      "~minecraft:old_growth_pine_taiga",
                       "~minecraft:cherry_grove",
-                      "~minecraft:dark_forest",
-                      "~minecraft:birch_forest",
+                      "~minecraft:taiga",
+                      "~minecraft:savanna",
                       "~minecraft:flower_forest"
                     ],
                     [
@@ -1270,15 +1270,15 @@
           },
           "minecraft:birch_forest": {
             "type": "biome",
-            "value": "minecraft:birch_forest"
+            "value": "minecraft:savanna"
           },
           "minecraft:birch_forest*hills": {
             "type": "biome",
-            "value": "minecraft:birch_forest*hills"
+            "value": "minecraft:savanna_plateau"
           },
           "minecraft:dark_forest": {
             "type": "biome",
-            "value": "minecraft:dark_forest*hills"
+            "value": "minecraft:taiga*hills"
           },
           "minecraft:desert": {
             "type": "biome",
@@ -1565,7 +1565,7 @@
               ],
               "condition": "moderner_beta:all_of"
             },
-            "result": "minecraft:snowy_beach",
+            "result": "minecraft:snowy_plains",
             "type": "biome"
           },
           {
@@ -1649,7 +1649,7 @@
               ],
               "condition": "moderner_beta:all_of"
             },
-            "result": "minecraft:beach",
+            "result": "minecraft:plains",
             "type": "biome"
           },
           {
@@ -1703,6 +1703,52 @@
         "seed": 0,
         "parent": "land",
         "type": "moderner_beta:mix_river"
+      },
+      {
+        "predicate": {
+          "radiusZ": 24,
+          "evenSize": true,
+          "shape": "rectangle",
+          "centerX": -320,
+          "centerZ": -320,
+          "radiusX": 24,
+          "condition": "moderner_beta:in_range"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:mushroom_fields"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 0,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "radiusZ": 64,
+          "evenSize": true,
+          "shape": "rectangle",
+          "centerX": 320,
+          "centerZ": 320,
+          "radiusX": 64,
+          "condition": "moderner_beta:in_range"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:jagged_peaks"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 0,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
       },
       {
         "predicate": {
