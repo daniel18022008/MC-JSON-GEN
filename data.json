@@ -1842,13 +1842,36 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 80,
-              "evenSize": true,
-              "shape": "rectangle",
-              "centerX": 580,
-              "centerZ": -590,
-              "radiusX": 60,
-              "condition": "moderner_beta:in_range"
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 74,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 560,
+                  "centerZ": -592,
+                  "radiusX": 70,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 58,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 600,
+                  "centerZ": -575,
+                  "radiusX": 46,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 52,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 520,
+                  "centerZ": -607,
+                  "radiusX": 40,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
             },
             {
               "biome": "minecraft:snowy_plains",
@@ -1874,13 +1897,36 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 80,
-              "evenSize": true,
-              "shape": "rectangle",
-              "centerX": -260,
-              "centerZ": -590,
-              "radiusX": 380,
-              "condition": "moderner_beta:in_range"
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 78,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -290,
+                  "centerZ": -594,
+                  "radiusX": 250,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 58,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -180,
+                  "centerZ": -576,
+                  "radiusX": 165,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 50,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -360,
+                  "centerZ": -610,
+                  "radiusX": 130,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
             },
             {
               "biome": "minecraft:snowy_plains",
@@ -1906,13 +1952,36 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 80,
-              "evenSize": true,
-              "shape": "rectangle",
-              "centerX": 220,
-              "centerZ": -590,
-              "radiusX": 120,
-              "condition": "moderner_beta:in_range"
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 74,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 220,
+                  "centerZ": -592,
+                  "radiusX": 110,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 52,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 255,
+                  "centerZ": -574,
+                  "radiusX": 72,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 48,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 170,
+                  "centerZ": -608,
+                  "radiusX": 62,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
             },
             {
               "biome": "minecraft:snowy_plains",
@@ -1938,13 +2007,36 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 80,
-              "evenSize": true,
-              "shape": "rectangle",
-              "centerX": 420,
-              "centerZ": -590,
-              "radiusX": 100,
-              "condition": "moderner_beta:in_range"
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 72,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 420,
+                  "centerZ": -590,
+                  "radiusX": 95,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 50,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 450,
+                  "centerZ": -573,
+                  "radiusX": 65,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 46,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 380,
+                  "centerZ": -606,
+                  "radiusX": 55,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
             },
             {
               "biome": "minecraft:snowy_plains",
@@ -2082,13 +2174,36 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 80,
-              "evenSize": true,
-              "shape": "rectangle",
-              "centerX": -220,
-              "centerZ": 590,
-              "radiusX": 260,
-              "condition": "moderner_beta:in_range"
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 74,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -220,
+                  "centerZ": 588,
+                  "radiusX": 200,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 50,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -120,
+                  "centerZ": 572,
+                  "radiusX": 120,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 48,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -300,
+                  "centerZ": 606,
+                  "radiusX": 105,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
             },
             {
               "biome": "minecraft:snowy_plains",
@@ -2114,13 +2229,36 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 80,
-              "evenSize": true,
-              "shape": "rectangle",
-              "centerX": 260,
-              "centerZ": 590,
-              "radiusX": 180,
-              "condition": "moderner_beta:in_range"
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 72,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 260,
+                  "centerZ": 590,
+                  "radiusX": 145,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 52,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 315,
+                  "centerZ": 575,
+                  "radiusX": 95,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 46,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 210,
+                  "centerZ": 606,
+                  "radiusX": 80,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
             },
             {
               "biome": "minecraft:snowy_plains",
@@ -2146,13 +2284,36 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 20,
-              "evenSize": true,
-              "shape": "rectangle",
-              "centerX": -320,
-              "centerZ": -503,
-              "radiusX": 320,
-              "condition": "moderner_beta:in_range"
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 20,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -320,
+                  "centerZ": -503,
+                  "radiusX": 220,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 14,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -250,
+                  "centerZ": -495,
+                  "radiusX": 140,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 12,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": -375,
+                  "centerZ": -511,
+                  "radiusX": 110,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
             },
             {
               "biome": "minecraft:snowy_plains",
@@ -2178,13 +2339,36 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 20,
-              "evenSize": true,
-              "shape": "rectangle",
-              "centerX": 320,
-              "centerZ": 503,
-              "radiusX": 220,
-              "condition": "moderner_beta:in_range"
+              "condition": "moderner_beta:any_of",
+              "terms": [
+                {
+                  "radiusZ": 20,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 320,
+                  "centerZ": 503,
+                  "radiusX": 170,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 14,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 370,
+                  "centerZ": 495,
+                  "radiusX": 105,
+                  "condition": "moderner_beta:in_range"
+                },
+                {
+                  "radiusZ": 12,
+                  "evenSize": true,
+                  "shape": "rectangle",
+                  "centerX": 275,
+                  "centerZ": 511,
+                  "radiusX": 90,
+                  "condition": "moderner_beta:in_range"
+                }
+              ]
             },
             {
               "biome": "minecraft:snowy_plains",
