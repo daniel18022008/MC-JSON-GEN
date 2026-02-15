@@ -575,8 +575,6 @@
           "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
-          "minecraft:dark_forest",
-          "minecraft:birch_forest",
           "minecraft:windswept_hills",
           "minecraft:windswept_forest"
         ],
@@ -2083,20 +2081,20 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 25,
+                  "radiusZ": 50,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 465,
+                  "centerZ": 440,
                   "radiusX": 640,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 25,
+                  "radiusZ": 50,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -465,
+                  "centerZ": -440,
                   "radiusX": 640,
                   "condition": "moderner_beta:in_range"
                 }
@@ -2137,20 +2135,20 @@
               "condition": "moderner_beta:any_of",
               "terms": [
                 {
-                  "radiusZ": 25,
+                  "radiusZ": 50,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 465,
+                  "centerZ": 440,
                   "radiusX": 640,
                   "condition": "moderner_beta:in_range"
                 },
                 {
-                  "radiusZ": 25,
+                  "radiusZ": 50,
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -465,
+                  "centerZ": -440,
                   "radiusX": 640,
                   "condition": "moderner_beta:in_range"
                 }
@@ -2193,11 +2191,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 25,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 465,
+              "centerZ": 440,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
@@ -2230,11 +2228,11 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 25,
+              "radiusZ": 50,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -465,
+              "centerZ": -440,
               "radiusX": 640,
               "condition": "moderner_beta:in_range"
             },
