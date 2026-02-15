@@ -572,7 +572,7 @@
           "minecraft:dark_forest",
           "minecraft:windswept_hills",
           "minecraft:plains",
-          "minecraft:birch_forest",
+          "minecraft:forest",
           "minecraft:swamp"
         ],
         "type": "moderner_beta:random_biome"
@@ -813,10 +813,6 @@
             "type": "biome",
             "value": "minecraft:bamboo_jungle*hills"
           },
-          "minecraft:birch_forest": {
-            "type": "biome",
-            "value": "minecraft:birch_forest*hills"
-          },
           "minecraft:dark_forest": {
             "type": "biome",
             "value": "minecraft:plains"
@@ -991,14 +987,6 @@
             "type": "biome",
             "value": "minecraft:badlands*modified_plateau"
           },
-          "minecraft:birch_forest": {
-            "type": "biome",
-            "value": "minecraft:old_growth_birch_forest"
-          },
-          "minecraft:birch_forest*hills": {
-            "type": "biome",
-            "value": "minecraft:old_growth_birch_forest*hills"
-          },
           "minecraft:dark_forest": {
             "type": "biome",
             "value": "minecraft:dark_forest*hills"
@@ -1119,9 +1107,9 @@
                     "~minecraft:sunflower_plains",
                     "~minecraft:jungle",
                     "minecraft:ocean",
-                    "~minecraft:birch_forest",
+                    "~minecraft:forest",
                     "~minecraft:flower_forest",
-                    "~minecraft:old_growth_birch_forest",
+                    "~minecraft:forest",
                     "~minecraft:snowy_taiga",
                     "~minecraft:desert",
                     "minecraft:badlands",
@@ -1146,10 +1134,10 @@
                     ],
                     [
                       "~minecraft:forest",
-                      "~minecraft:old_growth_birch_forest",
+                      "~minecraft:forest",
                       "~minecraft:cherry_grove",
                       "~minecraft:dark_forest",
-                      "~minecraft:birch_forest",
+                      "~minecraft:forest",
                       "~minecraft:flower_forest"
                     ],
                     [
@@ -1254,14 +1242,6 @@
           "minecraft:badlands*plateau": {
             "type": "biome",
             "value": "minecraft:badlands*modified_plateau"
-          },
-          "minecraft:birch_forest": {
-            "type": "biome",
-            "value": "minecraft:old_growth_birch_forest"
-          },
-          "minecraft:birch_forest*hills": {
-            "type": "biome",
-            "value": "minecraft:old_growth_birch_forest*hills"
           },
           "minecraft:dark_forest": {
             "type": "biome",
