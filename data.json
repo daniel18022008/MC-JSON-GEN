@@ -3659,12 +3659,12 @@
       },
       {
         "predicate": {
-          "radiusZ": 640,
+          "radiusZ": 813,
           "evenSize": true,
           "shape": "rectangle",
           "centerX": 0,
           "centerZ": 0,
-          "radiusX": 640,
+          "radiusX": 813,
           "condition": "moderner_beta:in_range"
         },
         "onMatch": {
