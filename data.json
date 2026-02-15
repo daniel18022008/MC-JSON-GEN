@@ -547,6 +547,8 @@
         "biomes": [
           "minecraft:plains",
           "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
           "minecraft:windswept_hills",
@@ -558,8 +560,8 @@
         "id": "biome_pool_warm_rare",
         "seed": 200,
         "biomes": [
-          "minecraft:windswept_hills",
-          "minecraft:windswept_forest",
+          "minecraft:jagged_peaks",
+          "minecraft:mushroom_fields",
           "minecraft:windswept_gravelly_hills"
         ],
         "type": "moderner_beta:random_biome"
@@ -572,6 +574,9 @@
           "minecraft:plains",
           "minecraft:plains",
           "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:forest",
+          "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
@@ -583,8 +588,12 @@
       {
         "id": "biome_pool_temperate_rare",
         "seed": 200,
-        "biome": "minecraft:windswept_gravelly_hills",
-        "type": "moderner_beta:constant_biome"
+        "type": "moderner_beta:random_biome",
+        "biomes": [
+          "minecraft:jagged_peaks",
+          "minecraft:mushroom_fields",
+          "minecraft:windswept_gravelly_hills"
+        ]
       },
       {
         "id": "biome_pool_cool",
@@ -593,6 +602,8 @@
           "minecraft:plains",
           "minecraft:plains",
           "minecraft:plains",
+          "minecraft:plains",
+          "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
           "minecraft:forest",
@@ -605,8 +616,12 @@
       {
         "id": "biome_pool_cool_rare",
         "seed": 200,
-        "biome": "minecraft:windswept_gravelly_hills",
-        "type": "moderner_beta:constant_biome"
+        "type": "moderner_beta:random_biome",
+        "biomes": [
+          "minecraft:jagged_peaks",
+          "minecraft:mushroom_fields",
+          "minecraft:windswept_gravelly_hills"
+        ]
       },
       {
         "id": "biome_pool_snowy",
