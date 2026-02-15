@@ -1750,7 +1750,7 @@
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:frozen_ocean"
+          "value": "minecraft:snowy_plains"
         },
         "otherwise": {
           "type": "biome",
@@ -1936,7 +1936,7 @@
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:frozen_ocean"
+          "value": "minecraft:snowy_plains"
         },
         "otherwise": {
           "type": "biome",
