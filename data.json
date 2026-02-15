@@ -3117,18 +3117,6 @@
               ]
             },
             {
-              "term": {
-                "biomes": [
-                  "minecraft:ocean",
-                  "minecraft:deep_ocean",
-                  "minecraft:frozen_ocean",
-                  "minecraft:deep_frozen_ocean"
-                ],
-                "condition": "moderner_beta:in_set"
-              },
-              "condition": "moderner_beta:inverted"
-            },
-            {
               "numerator": 9,
               "denominator": 10,
               "condition": "moderner_beta:random_chance"
@@ -3174,18 +3162,6 @@
                   "condition": "moderner_beta:in_range"
                 }
               ]
-            },
-            {
-              "term": {
-                "biomes": [
-                  "minecraft:ocean",
-                  "minecraft:deep_ocean",
-                  "minecraft:frozen_ocean",
-                  "minecraft:deep_frozen_ocean"
-                ],
-                "condition": "moderner_beta:in_set"
-              },
-              "condition": "moderner_beta:inverted"
             },
             {
               "numerator": 8,
@@ -3235,18 +3211,6 @@
               ]
             },
             {
-              "term": {
-                "biomes": [
-                  "minecraft:ocean",
-                  "minecraft:deep_ocean",
-                  "minecraft:frozen_ocean",
-                  "minecraft:deep_frozen_ocean"
-                ],
-                "condition": "moderner_beta:in_set"
-              },
-              "condition": "moderner_beta:inverted"
-            },
-            {
               "numerator": 7,
               "denominator": 10,
               "condition": "moderner_beta:random_chance"
@@ -3292,18 +3256,6 @@
                   "condition": "moderner_beta:in_range"
                 }
               ]
-            },
-            {
-              "term": {
-                "biomes": [
-                  "minecraft:ocean",
-                  "minecraft:deep_ocean",
-                  "minecraft:frozen_ocean",
-                  "minecraft:deep_frozen_ocean"
-                ],
-                "condition": "moderner_beta:in_set"
-              },
-              "condition": "moderner_beta:inverted"
             },
             {
               "numerator": 6,
@@ -3353,18 +3305,6 @@
               ]
             },
             {
-              "term": {
-                "biomes": [
-                  "minecraft:ocean",
-                  "minecraft:deep_ocean",
-                  "minecraft:frozen_ocean",
-                  "minecraft:deep_frozen_ocean"
-                ],
-                "condition": "moderner_beta:in_set"
-              },
-              "condition": "moderner_beta:inverted"
-            },
-            {
               "numerator": 5,
               "denominator": 10,
               "condition": "moderner_beta:random_chance"
@@ -3410,18 +3350,6 @@
                   "condition": "moderner_beta:in_range"
                 }
               ]
-            },
-            {
-              "term": {
-                "biomes": [
-                  "minecraft:ocean",
-                  "minecraft:deep_ocean",
-                  "minecraft:frozen_ocean",
-                  "minecraft:deep_frozen_ocean"
-                ],
-                "condition": "moderner_beta:in_set"
-              },
-              "condition": "moderner_beta:inverted"
             },
             {
               "numerator": 4,
@@ -3471,18 +3399,6 @@
               ]
             },
             {
-              "term": {
-                "biomes": [
-                  "minecraft:ocean",
-                  "minecraft:deep_ocean",
-                  "minecraft:frozen_ocean",
-                  "minecraft:deep_frozen_ocean"
-                ],
-                "condition": "moderner_beta:in_set"
-              },
-              "condition": "moderner_beta:inverted"
-            },
-            {
               "numerator": 3,
               "denominator": 10,
               "condition": "moderner_beta:random_chance"
@@ -3530,18 +3446,6 @@
               ]
             },
             {
-              "term": {
-                "biomes": [
-                  "minecraft:ocean",
-                  "minecraft:deep_ocean",
-                  "minecraft:frozen_ocean",
-                  "minecraft:deep_frozen_ocean"
-                ],
-                "condition": "moderner_beta:in_set"
-              },
-              "condition": "moderner_beta:inverted"
-            },
-            {
               "numerator": 2,
               "denominator": 10,
               "condition": "moderner_beta:random_chance"
@@ -3587,18 +3491,6 @@
                   "condition": "moderner_beta:in_range"
                 }
               ]
-            },
-            {
-              "term": {
-                "biomes": [
-                  "minecraft:ocean",
-                  "minecraft:deep_ocean",
-                  "minecraft:frozen_ocean",
-                  "minecraft:deep_frozen_ocean"
-                ],
-                "condition": "moderner_beta:in_set"
-              },
-              "condition": "moderner_beta:inverted"
             },
             {
               "numerator": 1,
