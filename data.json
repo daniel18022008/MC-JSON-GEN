@@ -1734,8 +1734,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 590,
-              "radiusX": 640,
+              "centerZ": 763,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1769,8 +1769,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 590,
-              "radiusX": 640,
+              "centerZ": 763,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1806,8 +1806,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 590,
-              "radiusX": 640,
+              "centerZ": 763,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1846,8 +1846,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 590,
-              "radiusX": 640,
+              "centerZ": 763,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1883,8 +1883,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 590,
-              "radiusX": 640,
+              "centerZ": 763,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1920,8 +1920,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -590,
-              "radiusX": 640,
+              "centerZ": -763,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1955,8 +1955,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -590,
-              "radiusX": 640,
+              "centerZ": -763,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -1992,8 +1992,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -590,
-              "radiusX": 640,
+              "centerZ": -763,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2032,8 +2032,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -590,
-              "radiusX": 640,
+              "centerZ": -763,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2069,8 +2069,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -590,
-              "radiusX": 640,
+              "centerZ": -763,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2106,8 +2106,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": 503,
-              "radiusX": 640,
+              "centerZ": 676,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2143,8 +2143,8 @@
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 0,
-              "centerZ": -503,
-              "radiusX": 640,
+              "centerZ": -676,
+              "radiusX": 813,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -2183,8 +2183,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 536,
-                  "radiusX": 640,
+                  "centerZ": 709,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2192,8 +2192,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -536,
-                  "radiusX": 640,
+                  "centerZ": -709,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2234,8 +2234,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 536,
-                  "radiusX": 640,
+                  "centerZ": 709,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2243,8 +2243,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -536,
-                  "radiusX": 640,
+                  "centerZ": -709,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2285,8 +2285,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 528,
-                  "radiusX": 640,
+                  "centerZ": 701,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2294,8 +2294,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -528,
-                  "radiusX": 640,
+                  "centerZ": -701,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2336,8 +2336,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 528,
-                  "radiusX": 640,
+                  "centerZ": 701,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2345,8 +2345,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -528,
-                  "radiusX": 640,
+                  "centerZ": -701,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2387,8 +2387,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 520,
-                  "radiusX": 640,
+                  "centerZ": 693,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2396,8 +2396,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -520,
-                  "radiusX": 640,
+                  "centerZ": -693,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2438,8 +2438,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 520,
-                  "radiusX": 640,
+                  "centerZ": 693,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2447,8 +2447,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -520,
-                  "radiusX": 640,
+                  "centerZ": -693,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2489,8 +2489,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 512,
-                  "radiusX": 640,
+                  "centerZ": 685,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2498,8 +2498,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -512,
-                  "radiusX": 640,
+                  "centerZ": -685,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2540,8 +2540,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 512,
-                  "radiusX": 640,
+                  "centerZ": 685,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2549,8 +2549,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -512,
-                  "radiusX": 640,
+                  "centerZ": -685,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2591,8 +2591,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 504,
-                  "radiusX": 640,
+                  "centerZ": 677,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2600,8 +2600,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -504,
-                  "radiusX": 640,
+                  "centerZ": -677,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2642,8 +2642,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 504,
-                  "radiusX": 640,
+                  "centerZ": 677,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2651,8 +2651,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -504,
-                  "radiusX": 640,
+                  "centerZ": -677,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2694,7 +2694,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 496,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2703,7 +2703,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -496,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2745,7 +2745,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 496,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2754,7 +2754,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -496,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2796,7 +2796,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 488,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2805,7 +2805,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -488,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2847,7 +2847,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 488,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2856,7 +2856,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -488,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2898,7 +2898,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 480,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2907,7 +2907,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -480,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -2949,7 +2949,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 480,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -2958,7 +2958,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -480,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3000,7 +3000,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 472,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -3009,7 +3009,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -472,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3051,7 +3051,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 472,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -3060,7 +3060,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -472,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3101,8 +3101,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 536,
-                  "radiusX": 640,
+                  "centerZ": 709,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -3110,8 +3110,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -536,
-                  "radiusX": 640,
+                  "centerZ": -709,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3160,8 +3160,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 528,
-                  "radiusX": 640,
+                  "centerZ": 701,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -3169,8 +3169,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -528,
-                  "radiusX": 640,
+                  "centerZ": -701,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3219,8 +3219,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 520,
-                  "radiusX": 640,
+                  "centerZ": 693,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -3228,8 +3228,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -520,
-                  "radiusX": 640,
+                  "centerZ": -693,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3278,8 +3278,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 512,
-                  "radiusX": 640,
+                  "centerZ": 685,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -3287,8 +3287,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -512,
-                  "radiusX": 640,
+                  "centerZ": -685,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3337,8 +3337,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": 504,
-                  "radiusX": 640,
+                  "centerZ": 677,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -3346,8 +3346,8 @@
                   "evenSize": true,
                   "shape": "rectangle",
                   "centerX": 0,
-                  "centerZ": -504,
-                  "radiusX": 640,
+                  "centerZ": -677,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3397,7 +3397,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 496,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -3406,7 +3406,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -496,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3456,7 +3456,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 488,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -3465,7 +3465,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -488,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3515,7 +3515,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 480,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -3524,7 +3524,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -480,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
@@ -3574,7 +3574,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": 472,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 },
                 {
@@ -3583,7 +3583,7 @@
                   "shape": "rectangle",
                   "centerX": 0,
                   "centerZ": -472,
-                  "radiusX": 640,
+                  "radiusX": 813,
                   "condition": "moderner_beta:in_range"
                 }
               ]
