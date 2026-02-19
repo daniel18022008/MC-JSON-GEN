@@ -6689,12 +6689,12 @@
       },
       {
         "predicate": {
-          "radiusZ": 432,
+          "radiusZ": 216,
           "evenSize": true,
           "shape": "rectangle",
-          "centerX": 2072,
+          "centerX": 4856,
           "centerZ": 0,
-          "radiusX": 432,
+          "radiusX": 216,
           "condition": "moderner_beta:in_range"
         },
         "onMatch": {
@@ -6707,6 +6707,192 @@
         },
         "id": "land",
         "seed": 91001,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "radiusZ": 184,
+              "evenSize": true,
+              "shape": "rectangle",
+              "centerX": 4856,
+              "centerZ": 0,
+              "radiusX": 184,
+              "condition": "moderner_beta:in_range"
+            },
+            {
+              "numerator": 2,
+              "denominator": 10,
+              "condition": "moderner_beta:random_chance"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:savanna"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 91002,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "radiusZ": 176,
+              "evenSize": true,
+              "shape": "rectangle",
+              "centerX": 4856,
+              "centerZ": 0,
+              "radiusX": 176,
+              "condition": "moderner_beta:in_range"
+            },
+            {
+              "numerator": 1,
+              "denominator": 8,
+              "condition": "moderner_beta:random_chance"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:sparse_jungle"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 91003,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "radiusZ": 216,
+              "evenSize": true,
+              "shape": "rectangle",
+              "centerX": 4856,
+              "centerZ": 0,
+              "radiusX": 216,
+              "condition": "moderner_beta:in_range"
+            },
+            {
+              "term": {
+                "radiusZ": 192,
+                "evenSize": true,
+                "shape": "rectangle",
+                "centerX": 4856,
+                "centerZ": 0,
+                "radiusX": 192,
+                "condition": "moderner_beta:in_range"
+              },
+              "condition": "moderner_beta:inverted"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:beach"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 91004,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "radiusZ": 272,
+              "evenSize": true,
+              "shape": "rectangle",
+              "centerX": 4856,
+              "centerZ": 0,
+              "radiusX": 272,
+              "condition": "moderner_beta:in_range"
+            },
+            {
+              "term": {
+                "radiusZ": 216,
+                "evenSize": true,
+                "shape": "rectangle",
+                "centerX": 4856,
+                "centerZ": 0,
+                "radiusX": 216,
+                "condition": "moderner_beta:in_range"
+              },
+              "condition": "moderner_beta:inverted"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:warm_ocean"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 91005,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "terms": [
+            {
+              "radiusZ": 336,
+              "evenSize": true,
+              "shape": "rectangle",
+              "centerX": 4856,
+              "centerZ": 0,
+              "radiusX": 336,
+              "condition": "moderner_beta:in_range"
+            },
+            {
+              "term": {
+                "radiusZ": 272,
+                "evenSize": true,
+                "shape": "rectangle",
+                "centerX": 4856,
+                "centerZ": 0,
+                "radiusX": 272,
+                "condition": "moderner_beta:in_range"
+              },
+              "condition": "moderner_beta:inverted"
+            }
+          ],
+          "condition": "moderner_beta:all_of"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:ocean"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 91006,
         "parent": "land",
         "type": "moderner_beta:conditional_overlay"
       }
