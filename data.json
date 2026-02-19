@@ -6689,12 +6689,12 @@
       },
       {
         "predicate": {
-          "radiusZ": 216,
+          "radiusZ": 108,
           "evenSize": true,
           "shape": "rectangle",
           "centerX": 2856,
           "centerZ": 0,
-          "radiusX": 216,
+          "radiusX": 108,
           "condition": "moderner_beta:in_range"
         },
         "onMatch": {
@@ -6715,39 +6715,39 @@
           "condition": "moderner_beta:any_of",
           "terms": [
             {
-              "radiusZ": 54,
+              "radiusZ": 27,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2786,
               "centerZ": -30,
-              "radiusX": 62,
+              "radiusX": 31,
               "condition": "moderner_beta:in_range"
             },
             {
-              "radiusZ": 50,
+              "radiusZ": 25,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2904,
               "centerZ": 58,
-              "radiusX": 56,
+              "radiusX": 28,
               "condition": "moderner_beta:in_range"
             },
             {
-              "radiusZ": 40,
+              "radiusZ": 20,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2938,
               "centerZ": -72,
-              "radiusX": 44,
+              "radiusX": 22,
               "condition": "moderner_beta:in_range"
             },
             {
-              "radiusZ": 36,
+              "radiusZ": 18,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2760,
               "centerZ": 78,
-              "radiusX": 40,
+              "radiusX": 20,
               "condition": "moderner_beta:in_range"
             }
           ]
@@ -6770,30 +6770,30 @@
           "condition": "moderner_beta:any_of",
           "terms": [
             {
-              "radiusZ": 46,
+              "radiusZ": 23,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2864,
               "centerZ": -86,
-              "radiusX": 58,
+              "radiusX": 29,
               "condition": "moderner_beta:in_range"
             },
             {
-              "radiusZ": 44,
+              "radiusZ": 22,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2832,
               "centerZ": 14,
-              "radiusX": 52,
+              "radiusX": 26,
               "condition": "moderner_beta:in_range"
             },
             {
-              "radiusZ": 30,
+              "radiusZ": 15,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2964,
               "centerZ": 16,
-              "radiusX": 34,
+              "radiusX": 17,
               "condition": "moderner_beta:in_range"
             }
           ]
@@ -6815,22 +6815,22 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 216,
+              "radiusZ": 108,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2856,
               "centerZ": 0,
-              "radiusX": 216,
+              "radiusX": 108,
               "condition": "moderner_beta:in_range"
             },
             {
               "term": {
-                "radiusZ": 210,
+                "radiusZ": 105,
                 "evenSize": true,
                 "shape": "rectangle",
                 "centerX": 2856,
                 "centerZ": 0,
-                "radiusX": 210,
+                "radiusX": 105,
                 "condition": "moderner_beta:in_range"
               },
               "condition": "moderner_beta:inverted"
@@ -6855,22 +6855,22 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 248,
+              "radiusZ": 124,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2856,
               "centerZ": 0,
-              "radiusX": 248,
+              "radiusX": 124,
               "condition": "moderner_beta:in_range"
             },
             {
               "term": {
-                "radiusZ": 216,
+                "radiusZ": 108,
                 "evenSize": true,
                 "shape": "rectangle",
                 "centerX": 2856,
                 "centerZ": 0,
-                "radiusX": 216,
+                "radiusX": 108,
                 "condition": "moderner_beta:in_range"
               },
               "condition": "moderner_beta:inverted"
@@ -6895,22 +6895,22 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 304,
+              "radiusZ": 152,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2856,
               "centerZ": 0,
-              "radiusX": 304,
+              "radiusX": 152,
               "condition": "moderner_beta:in_range"
             },
             {
               "term": {
-                "radiusZ": 248,
+                "radiusZ": 124,
                 "evenSize": true,
                 "shape": "rectangle",
                 "centerX": 2856,
                 "centerZ": 0,
-                "radiusX": 248,
+                "radiusX": 124,
                 "condition": "moderner_beta:in_range"
               },
               "condition": "moderner_beta:inverted"
