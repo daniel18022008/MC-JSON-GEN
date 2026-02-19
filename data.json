@@ -6699,7 +6699,7 @@
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:windswept_hills"
+          "value": "minecraft:jagged_peaks"
         },
         "otherwise": {
           "type": "biome",
@@ -6754,7 +6754,7 @@
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:windswept_hills"
+          "value": "minecraft:jagged_peaks"
         },
         "otherwise": {
           "type": "biome",
@@ -6800,7 +6800,7 @@
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:windswept_hills"
+          "value": "minecraft:jagged_peaks"
         },
         "otherwise": {
           "type": "biome",
