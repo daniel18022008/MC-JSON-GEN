@@ -6699,7 +6699,7 @@
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:savanna_plateau"
+          "value": "minecraft:windswept_hills"
         },
         "otherwise": {
           "type": "biome",
@@ -6717,7 +6717,7 @@
             {
               "radiusZ": 54,
               "evenSize": true,
-              "shape": "rectangle",
+              "shape": "ellipse",
               "centerX": 2786,
               "centerZ": -30,
               "radiusX": 62,
@@ -6726,7 +6726,7 @@
             {
               "radiusZ": 50,
               "evenSize": true,
-              "shape": "rectangle",
+              "shape": "ellipse",
               "centerX": 2904,
               "centerZ": 58,
               "radiusX": 56,
@@ -6735,7 +6735,7 @@
             {
               "radiusZ": 40,
               "evenSize": true,
-              "shape": "rectangle",
+              "shape": "ellipse",
               "centerX": 2938,
               "centerZ": -72,
               "radiusX": 44,
@@ -6744,7 +6744,7 @@
             {
               "radiusZ": 36,
               "evenSize": true,
-              "shape": "rectangle",
+              "shape": "ellipse",
               "centerX": 2760,
               "centerZ": 78,
               "radiusX": 40,
