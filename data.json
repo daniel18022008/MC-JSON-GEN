@@ -6815,12 +6815,12 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 112,
+              "radiusZ": 300,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2856,
               "centerZ": 0,
-              "radiusX": 112,
+              "radiusX": 300,
               "condition": "moderner_beta:in_range"
             },
             {
@@ -6840,7 +6840,7 @@
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:beach"
+          "value": "minecraft:stony_shore"
         },
         "otherwise": {
           "type": "biome",
@@ -6855,22 +6855,22 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 130,
+              "radiusZ": 450,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2856,
               "centerZ": 0,
-              "radiusX": 130,
+              "radiusX": 450,
               "condition": "moderner_beta:in_range"
             },
             {
               "term": {
-                "radiusZ": 112,
+                "radiusZ": 300,
                 "evenSize": true,
                 "shape": "rectangle",
                 "centerX": 2856,
                 "centerZ": 0,
-                "radiusX": 112,
+                "radiusX": 300,
                 "condition": "moderner_beta:in_range"
               },
               "condition": "moderner_beta:inverted"
@@ -6895,22 +6895,22 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 160,
+              "radiusZ": 520,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2856,
               "centerZ": 0,
-              "radiusX": 160,
+              "radiusX": 520,
               "condition": "moderner_beta:in_range"
             },
             {
               "term": {
-                "radiusZ": 130,
+                "radiusZ": 450,
                 "evenSize": true,
                 "shape": "rectangle",
                 "centerX": 2856,
                 "centerZ": 0,
-                "radiusX": 130,
+                "radiusX": 450,
                 "condition": "moderner_beta:in_range"
               },
               "condition": "moderner_beta:inverted"
