@@ -6686,6 +6686,29 @@
         "seed": 0,
         "parent": "land",
         "type": "moderner_beta:conditional_overlay"
+      },
+      {
+        "predicate": {
+          "radiusZ": 432,
+          "evenSize": true,
+          "shape": "rectangle",
+          "centerX": 2072,
+          "centerZ": 0,
+          "radiusX": 432,
+          "condition": "moderner_beta:in_range"
+        },
+        "onMatch": {
+          "type": "biome",
+          "value": "minecraft:desert"
+        },
+        "otherwise": {
+          "type": "biome",
+          "value": "minecraft:the_void*null"
+        },
+        "id": "land",
+        "seed": 91001,
+        "parent": "land",
+        "type": "moderner_beta:conditional_overlay"
       }
     ],
     "outputs": {
