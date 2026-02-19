@@ -6689,17 +6689,17 @@
       },
       {
         "predicate": {
-          "radiusZ": 216,
+          "radiusZ": 100,
           "evenSize": true,
           "shape": "rectangle",
           "centerX": 2856,
           "centerZ": 0,
-          "radiusX": 216,
+          "radiusX": 100,
           "condition": "moderner_beta:in_range"
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:savanna_plateau"
+          "value": "minecraft:jagged_peaks"
         },
         "otherwise": {
           "type": "biome",
@@ -6715,46 +6715,46 @@
           "condition": "moderner_beta:any_of",
           "terms": [
             {
-              "radiusZ": 54,
+              "radiusZ": 24,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2786,
               "centerZ": -30,
-              "radiusX": 62,
+              "radiusX": 28,
               "condition": "moderner_beta:in_range"
             },
             {
-              "radiusZ": 50,
+              "radiusZ": 22,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2904,
               "centerZ": 58,
-              "radiusX": 56,
+              "radiusX": 25,
               "condition": "moderner_beta:in_range"
             },
             {
-              "radiusZ": 40,
+              "radiusZ": 18,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2938,
               "centerZ": -72,
-              "radiusX": 44,
+              "radiusX": 20,
               "condition": "moderner_beta:in_range"
             },
             {
-              "radiusZ": 36,
+              "radiusZ": 16,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2760,
               "centerZ": 78,
-              "radiusX": 40,
+              "radiusX": 18,
               "condition": "moderner_beta:in_range"
             }
           ]
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:desert"
+          "value": "minecraft:jagged_peaks"
         },
         "otherwise": {
           "type": "biome",
@@ -6770,37 +6770,37 @@
           "condition": "moderner_beta:any_of",
           "terms": [
             {
-              "radiusZ": 46,
+              "radiusZ": 21,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2864,
               "centerZ": -86,
-              "radiusX": 58,
+              "radiusX": 26,
               "condition": "moderner_beta:in_range"
             },
             {
-              "radiusZ": 44,
+              "radiusZ": 20,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2832,
               "centerZ": 14,
-              "radiusX": 52,
+              "radiusX": 23,
               "condition": "moderner_beta:in_range"
             },
             {
-              "radiusZ": 30,
+              "radiusZ": 14,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2964,
               "centerZ": 16,
-              "radiusX": 34,
+              "radiusX": 15,
               "condition": "moderner_beta:in_range"
             }
           ]
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:sparse_jungle"
+          "value": "minecraft:jagged_peaks"
         },
         "otherwise": {
           "type": "biome",
@@ -6815,22 +6815,22 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 216,
+              "radiusZ": 300,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2856,
               "centerZ": 0,
-              "radiusX": 216,
+              "radiusX": 300,
               "condition": "moderner_beta:in_range"
             },
             {
               "term": {
-                "radiusZ": 210,
+                "radiusZ": 100,
                 "evenSize": true,
                 "shape": "rectangle",
                 "centerX": 2856,
                 "centerZ": 0,
-                "radiusX": 210,
+                "radiusX": 100,
                 "condition": "moderner_beta:in_range"
               },
               "condition": "moderner_beta:inverted"
@@ -6855,22 +6855,22 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 248,
+              "radiusZ": 450,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2856,
               "centerZ": 0,
-              "radiusX": 248,
+              "radiusX": 450,
               "condition": "moderner_beta:in_range"
             },
             {
               "term": {
-                "radiusZ": 216,
+                "radiusZ": 300,
                 "evenSize": true,
                 "shape": "rectangle",
                 "centerX": 2856,
                 "centerZ": 0,
-                "radiusX": 216,
+                "radiusX": 300,
                 "condition": "moderner_beta:in_range"
               },
               "condition": "moderner_beta:inverted"
@@ -6895,22 +6895,22 @@
         "predicate": {
           "terms": [
             {
-              "radiusZ": 304,
+              "radiusZ": 520,
               "evenSize": true,
               "shape": "rectangle",
               "centerX": 2856,
               "centerZ": 0,
-              "radiusX": 304,
+              "radiusX": 520,
               "condition": "moderner_beta:in_range"
             },
             {
               "term": {
-                "radiusZ": 248,
+                "radiusZ": 450,
                 "evenSize": true,
                 "shape": "rectangle",
                 "centerX": 2856,
                 "centerZ": 0,
-                "radiusX": 248,
+                "radiusX": 450,
                 "condition": "moderner_beta:in_range"
               },
               "condition": "moderner_beta:inverted"
