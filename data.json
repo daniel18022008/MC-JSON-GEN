@@ -6699,7 +6699,7 @@
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:savanna_plateau"
+          "value": "minecraft:savanna"
         },
         "otherwise": {
           "type": "biome",
@@ -6800,7 +6800,7 @@
         },
         "onMatch": {
           "type": "biome",
-          "value": "minecraft:sparse_jungle"
+          "value": "minecraft:savanna"
         },
         "otherwise": {
           "type": "biome",
